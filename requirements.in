@@ -1,0 +1,18 @@
+# Basics
+numpy
+pandas
+
+# Application
+environs
+
+# Tensorflow
+tensorflow-addons
+tensorflow-probability
+
+# ML
+scikit-learn
+statsmodels
+TA-Lib
+
+# Cython
+Cython
